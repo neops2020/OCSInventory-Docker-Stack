@@ -24,7 +24,7 @@ services :
     container_name : ocsinventory-db
     restart: always
     environment:
-      MYSQL_ROOT_PASSWORD : mdp
+      MYSQL_ROOT_PASSWORD : lollol
       MYSQL_USER : ocs
       MYSQL_PASSWORD : ocs
       MYSQL_DATABASE : ocsweb
